@@ -1,0 +1,10 @@
+C:\Users\bojid\source\repos\Vulcan\Vulcan\bin\Debug\Vulcan.exe.config
+C:\Users\bojid\source\repos\Vulcan\Vulcan\bin\Debug\Vulcan.exe
+C:\Users\bojid\source\repos\Vulcan\Vulcan\bin\Debug\Vulcan.pdb
+C:\Users\bojid\source\repos\Vulcan\Vulcan\obj\Debug\Vulcan.csprojAssemblyReference.cache
+C:\Users\bojid\source\repos\Vulcan\Vulcan\obj\Debug\Vulcan.Form1.resources
+C:\Users\bojid\source\repos\Vulcan\Vulcan\obj\Debug\Vulcan.Properties.Resources.resources
+C:\Users\bojid\source\repos\Vulcan\Vulcan\obj\Debug\Vulcan.csproj.GenerateResource.cache
+C:\Users\bojid\source\repos\Vulcan\Vulcan\obj\Debug\Vulcan.csproj.CoreCompileInputs.cache
+C:\Users\bojid\source\repos\Vulcan\Vulcan\obj\Debug\Vulcan.exe
+C:\Users\bojid\source\repos\Vulcan\Vulcan\obj\Debug\Vulcan.pdb
